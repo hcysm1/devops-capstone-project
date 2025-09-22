@@ -1,5 +1,5 @@
 ---
-name: user-story.md
+name: user-story
 about: This template is used for creating user stories
 title: ''
 labels: ''
